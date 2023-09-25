@@ -1,0 +1,74 @@
+[
+    {
+        "productName": "Romaine Lettuce",
+        "description": "Organic, locally produced from Baguio. Romaine lettuce is more than just a tasty leaf that adds color and crunch to a salad. It also provides vitamins, minerals, and fiber.",
+        "ratings": 4.9,
+        "images": [
+            {
+                "public_id": "romaine_lettuce_image",
+                "url": "https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2020/02/319725_1100-800x825.jpg"
+            }
+        ],
+        "category": "Vegetables",
+        "stock": 30,
+        "price": 100.00,
+        "numOfReviews": 1000,
+        "reviews": [],
+        "userOrders": [],
+        "createdOn": ""
+    },
+    {
+        "productName": "Beef-loin",
+        "description": "Organic, locally produced from Mahogany Tagaytay. Popular marketplace with merchants selling produce and butchered beef.",
+        "ratings": 5.0,
+        "images": [
+            {
+                "public_id": "beef_loin_image",
+                "url": "https://cdn.britannica.com/68/143268-050-917048EA/Beef-loin.jpg"
+            }
+        ],
+        "category": "Meat",
+        "stock": 10,
+        "price": 300.00,
+        "numOfReviews": 876,
+        "reviews": [],
+        "userOrders": [],
+        "createdOn": ""
+    },
+    {
+        "productName": "Egg",
+        "description": "Organic, locally produced from Calabarzon.",
+        "ratings": 5.0,
+        "images": [
+            {
+                "public_id": "egg_image",
+                "url": "https://farmhouseguide.com/wp-content/uploads/2022/duck-eggs-on-nest-ee220504-960x560.jpg"
+            }
+        ],
+        "category": "Poultry",
+        "stock": 100,
+        "price": 5.00,
+        "numOfReviews": 356,
+        "reviews": [],
+        "userOrders": [],
+        "createdOn": ""
+    },
+    {
+        "productName": "Banana",
+        "description": "Organic, locally produced from Davao region.",
+        "ratings": 5.0,
+        "images": [
+            {
+                "public_id": "banana_image",
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ripe_latundan_bananas.jpg/640px-Ripe_latundan_bananas.jpg"
+            }
+        ],
+        "category": "Fruits",
+        "stock": 200,
+        "price": 5.00,
+        "numOfReviews": 700,
+        "reviews": [],
+        "userOrders": [],
+        "createdOn": ""
+    }
+]
